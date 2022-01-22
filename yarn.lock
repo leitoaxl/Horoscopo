@@ -4059,9 +4059,9 @@ nan@^2.12.1:
   integrity sha512-isWHgVjnFjh2x2yuJ/tj3JbwoHu3UC2dX5G/88Cm24yB6YopVgxvBObDY7n5xW6ExmFhJpSEQqFPvq9zaXc8Jw==
 
 nanoid@^3.1.9:
-  version "3.1.10"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.1.10.tgz#69a8a52b77892de0d11cede96bc9762852145bc4"
-  integrity sha512-iZFMXKeXWkxzlfmMfM91gw7YhN2sdJtixY+eZh9V6QWJWTOiurhpKhBMgr82pfzgSqglQgqYSCowEYsz8D++6w==
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.2.0.tgz#62667522da6673971cca916a6d3eff3f415ff80c"
+  integrity sha512-fmsZYa9lpn69Ad5eDn7FMcnnSR+8R34W9qJEijxYhTbfOWzr22n1QxCMzXLK+ODyW2973V3Fux959iQoUxzUIA==
 
 nanomatch@^1.2.9:
   version "1.2.13"
@@ -5017,11 +5017,6 @@ side-channel@^1.0.2:
   dependencies:
     es-abstract "^1.17.0-next.1"
     object-inspect "^1.7.0"
-
-sign-teller@^3.2.2:
-  version "3.2.2"
-  resolved "https://registry.yarnpkg.com/sign-teller/-/sign-teller-3.2.2.tgz#588227642b07a7b70da8bbe14cedd2fbda891c4e"
-  integrity sha512-UM0yNlm8nn4PMqK16gwdHc/2I4QGzWT/Sne+eczjLO82mg+uxOSeT3oLlA/ZcagZYDv1/pE2esW3fL97V2JawA==
 
 signal-exit@^3.0.0, signal-exit@^3.0.2:
   version "3.0.3"
